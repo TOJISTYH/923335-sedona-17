@@ -1,7 +1,7 @@
 # Личный проект «Седона» [![Build status][travis-image]][travis-url] [![Dependency status][dependency-image]][dependency-url]
 
 * Студент: [Андрей Бабич](https://up.htmlacademy.ru/adaptive/17/user/923335).
-* Наставник: `Неизвестно`.
+* Наставник: [`Виктор Кан`](https://htmlacademy.ru/profile/id241239).
 
 ---
 
